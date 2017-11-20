@@ -1,0 +1,60 @@
+
+@font-face url ('https://fonts.googleapis.com/css?family=Yellowtail" rel="stylesheet');
+
+html {
+  max-width: 950px;
+}
+
+.two-column {
+  display: inline-block;
+  width: calc(100% / 3);
+  margin-left: calc((100% / 3) /3);
+  float: right
+}
+
+#print-logo {
+  min-width: 25px;
+  float:right;
+}
+.delicious {
+  padding-right: 15px;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 30px;
+  float:left;
+}
+img {
+  max-width: 950px;
+}
+h1{
+  font-
+  font-family: "Lucida Console", Courier, monospace;
+  float: left;
+}
+p {
+  text-indent: 50px;
+  font-family: times;
+  font-size: 16px;
+}
+hr {
+  color: grey;
+  weight: 15px;
+}
+form {
+  float: left;
+  background-image: url(https://raw.githubusercontent.com/codefellows/seattle-201d28/master/class-10-js_debugging-wireframe_part_2/lab/lab-assets/list-bg.png);
+padding-left: 100px;
+padding-right: 60px;
+}
+#left{
+  float: left;
+}
+#right{
+  margin-left: 500px
+}
+.Vanessa{
+  float:left;
+}
+.last-breakline{
+  margin-top: 80px;
+}
